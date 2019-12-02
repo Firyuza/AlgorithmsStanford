@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.idea
+
+finishing_time.pickle
+explored_vertices.pickle
+renamed_graph.pickle
+SCCs_data.pickle
+arcs

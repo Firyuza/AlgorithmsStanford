@@ -1,1 +1,1 @@
-# AlgorithmsStanford
+# Algorithms by Stanford from Coursera
